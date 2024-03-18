@@ -3,3 +3,17 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header hi {
+  text-align: center;
+}
+
+section figure img {
+  justify-content: center;
+}
+
+header nav {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
